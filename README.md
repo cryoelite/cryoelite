@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arvind</h1>
 <h3 align="center">A passionate mobile app developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/cryo_elite" target="blank"><img src="https://img.shields.io/twitter/follow/cryo_elite?logo=twitter&style=for-the-badge" alt="cryo_elite" /></a> </p>
+<p align="left"> <a href="https://twitter.com/cryonim_" target="blank"><img src="https://img.shields.io/twitter/follow/cryonim_?logo=twitter&style=for-the-badge" alt="cryonim_" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
