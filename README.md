@@ -1,16 +1,46 @@
-<h1 align="center">Hi 👋, I'm Arvind</h1>
-<h3 align="center">A passionate web developer from India</h3>
+# Arvind Sagar
 
-<p align="left"> <a href="https://twitter.com/cryonim_" target="blank"><img src="https://img.shields.io/twitter/follow/cryonim_?logo=twitter&style=for-the-badge" alt="cryonim_" /></a> </p>
+Backend engineer. I build Rust services and the infrastructure they run on.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cryonim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cryo_elite" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arvind-sagar-702bx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvind-sagar-702bx" height="30" width="40" /></a>
-</p>
+Four years across enterprise systems and small product teams, mostly in Rust and
+PostgreSQL: HTTP APIs, job queues, storage pipelines, containerised deployments, and the
+telemetry around them. I like owning the whole vertical — schema, service, deploy, and the
+measurements that show whether any of it actually got better. I currently work on an
+independent contract and I'm open to backend and SDE roles.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+**Core** — Rust · PostgreSQL · Docker · AWS / GCP · OpenTelemetry
+**Also** — Tokio · Axum · Redis · TypeScript · Python · Cloudflare R2 · CI/CD
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cryoelite&show_icons=true&locale=en&layout=compact" alt="cryoelite" /></p>
+---
 
+## Projects
+
+### [Gradient](https://projects.itscryo.com/ml) — an interactive machine learning course
+
+Machine learning from the ground up, written for people who have never programmed. Sixteen
+chapters and 254 code cells, and every code block on the page runs.
+
+The design problem was where to execute Python. About 70% of the course needs nothing but the
+site: Python runs in the browser through a vendored Pyodide build, so it works offline and
+with no install. The PyTorch chapters are different — a shared kernel would execute arbitrary
+Python on behalf of every visitor, so it can never be hosted centrally. Those cells connect to
+a Jupyter kernel the reader runs on their own machine instead.
+
+`Astro` `Python` `Pyodide` `PyTorch` `Docker` — [live site](https://projects.itscryo.com/ml) · [source](https://github.com/cryoelite/ml)
+
+### [cgol-rs](https://github.com/cryoelite/cgol-rs) — Conway's Game of Life in Rust
+
+A native desktop implementation using `egui`/`eframe`. A fixed 100×100 board that wraps at the
+edges — the top row is treated as adjacent to the bottom, the left column to the right — seeded
+with a compile-time pattern and stepping roughly three generations a second. 351 lines of Rust
+with no `unwrap` in the codebase.
+
+`Rust` `egui` `eframe` — [source](https://github.com/cryoelite/cgol-rs)
+
+---
+
+## Elsewhere
+
+- Website — [itscryo.com](https://itscryo.com)
+- LinkedIn — [in/itsarvindsagar](https://www.linkedin.com/in/itsarvindsagar/)
+- Email — [itsArvindSagar@gmail.com](mailto:itsArvindSagar@gmail.com)
