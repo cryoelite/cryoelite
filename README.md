@@ -6,9 +6,7 @@
 
 ---
 
-> **"Science is what we understand well enough to explain to a computer. Art is everything else we do."**
->
-> - Donald Knuth
+> **"Science is what we understand well enough to explain to a computer. Art is everything else we do."** - Donald Knuth
 
 <p>Tinkerer, Open-the-box-to-see-how-it-works-er</p>
 
