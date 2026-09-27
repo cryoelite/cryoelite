@@ -10,9 +10,9 @@
 >
 > — Donald Knuth · *Things a Computer Scientist Rarely Talks About*
 
-Tinkerer, open-the-box-to-see-how-it-works-er
----
+<p>Tinkerer, open-the-box-to-see-how-it-works-er</p>
 
+---
 ### looking to connect?
 
 <a href="mailto:itsarvindsagar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-itsarvindsagar-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
